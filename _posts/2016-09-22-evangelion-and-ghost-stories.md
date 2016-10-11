@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Evangelion & Ghost Stories"
-date: 2016-09-22
+date: 2016-09-22 19:30:00
 excerpt: "Preparing for the rest of the semester."
 tags: [minutes]
 ---
