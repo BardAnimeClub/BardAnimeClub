@@ -1,0 +1,19 @@
+# Site navigation links
+
+- title: Home
+  url: /
+
+- title: Minutes
+  url: /minutes/
+
+- title: Currently Watching
+  url: /currently_watching/
+
+- title: Upcoming Events
+  url: /events/
+
+- title: Katsucon 2017
+  url: /katsucon/
+
+- title: About
+  url: /about/
