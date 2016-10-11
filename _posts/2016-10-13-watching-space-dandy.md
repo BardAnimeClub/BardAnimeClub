@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Space Dandy"
-date: 2016-10-13 19:30:00
+date: 2016-10-13T19:30:00Z
 excerpt: "Upcoming Episode: S01E02"
 tags: [watching]
 ---
