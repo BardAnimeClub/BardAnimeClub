@@ -5,7 +5,7 @@ date: 2016-09-22T19:30:00Z
 excerpt: "Preparing for the rest of the semester."
 tags: [minutes]
 ---
-
+<center><i>Preparing for the rest of the semester.</i></center>
 <p>Today we discussed AirBnB plans for Katsucon and finalized the list of this year's attendees, then brainstormed possible upcoming events, including:</p>
 <ul>
 	<li>A Halloween movie screening</li>
